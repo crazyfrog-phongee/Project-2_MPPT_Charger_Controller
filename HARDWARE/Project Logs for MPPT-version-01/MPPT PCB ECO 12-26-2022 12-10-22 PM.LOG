@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=ESP32_GPIO32 Pin=JP2-1
+Removed Pin From Net: NetName=ESP32_GPIO33 Pin=JP2-2
+Removed Pin From Net: NetName=ESP32_SS Pin=JP2-3
+Removed Pin From Net: NetName=ESP32_SCK Pin=JP2-4
+Removed Pin From Net: NetName=ESP32_MISO Pin=JP2-5
+Removed Pin From Net: NetName=ESP32_MOSI Pin=JP2-6
+Added Pin To Net: NetName=ESP32_SS Pin=JP2-1
+Added Pin To Net: NetName=ESP32_SCK Pin=JP2-2
+Added Pin To Net: NetName=ESP32_MISO Pin=JP2-3
+Added Pin To Net: NetName=ESP32_MOSI Pin=JP2-4
+Added Pin To Net: NetName=ESP32_GPIO32 Pin=JP2-5
+Added Pin To Net: NetName=ESP32_GPIO33 Pin=JP2-6
+Added Room: Name=MPPT

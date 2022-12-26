@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=RL1 Old Footprint=RELAY_SRD-05VDC-SL-C New Footprint=RELAY5PIN-10A
+Added Pin To Net: NetName=NetQ2_2 Pin=RL1-1
+Added Pin To Net: NetName=VBUS_SOL Pin=RL1-3
+Added Pin To Net: NetName=NetD4_1 Pin=RL1-4
+Added Pin To Net: NetName=+12 Pin=RL1-5
+Added Room: Name=MPPT

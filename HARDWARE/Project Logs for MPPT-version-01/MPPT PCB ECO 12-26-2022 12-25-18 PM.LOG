@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ESP32_GPIO27 Pin=R17-2
+Removed Pin From Net: NetName=ESP32_GPIO27 Pin=U8-3
+Added Pin To Net: NetName=ESP32_GPIO33 Pin=R17-2
+Added Pin To Net: NetName=ESP32_GPIO33 Pin=U8-3
