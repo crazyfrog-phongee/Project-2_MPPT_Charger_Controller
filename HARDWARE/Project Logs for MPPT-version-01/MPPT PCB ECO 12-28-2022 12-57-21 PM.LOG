@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=BAT+ Pin=J1-3
+Removed Pin From Net: NetName=BAT+ Pin=J3-1
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Added Component: Designator=D7(SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode SS34 3A 40V SMA ( 1N5822 SS34A)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=D7-1
+Change Net Name : Old Net Name=BAT+ New Net Name=VBUS_BAT
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD8_2
+Added Pin To Net: NetName=BAT+ Pin=D7-2
+Added Pin To Net: NetName=BAT+ Pin=J1-3
+Added Pin To Net: NetName=BAT+ Pin=J3-1
+Added Net: Name=BAT+
+Added Member To Class: ClassName=MPPT Member=Component D8 SS34
+Added Room: Name=MPPT
