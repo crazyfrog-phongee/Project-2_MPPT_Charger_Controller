@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "ESP_IDF",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/ESP_IDF/components/**",
+                "D:/ESP_IDF/components/freertos/**",
+                "D:/ESP_IDF/**",
+                "D:/ESP_IDF/components/esp_event/**",
+                "D:/ESP32/Espressif/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
